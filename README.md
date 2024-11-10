@@ -3,7 +3,7 @@
     <div style="border-bottom: 1px solid white; height: 20px;"></div>
     <div style="font-size: 20px; font-weight: bold; color: #ff00ff;">
       export <span style="color: #0070f3;">const</span> 
-      <span style="color: #f1c40f;">AboutMe</span> =&gt; &#123;
+      <span style="color: #f1c40f;">AboutMe = () </span> =&gt; &#123;
     </div>
     <div style="font-size: 16px; color: #000;">
       <div style="margin-left: 16px;">
