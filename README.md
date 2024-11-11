@@ -1,3 +1,7 @@
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg"> 
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
+
 <div style="display: flex; flex-direction: column; gap: 16px; min-height: 100vh; justify-content: center; max-width: 800px; width: 65%; margin: auto;">
   <div style="border: 1px solid white; border-radius: 0 0 8px 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); background-color: #f0f0f0; padding: 16px;">
     <div style="border-bottom: 1px solid white; height: 20px;"></div>
@@ -48,3 +52,8 @@
     <div>&#125;</div>
   </div>
 </div>
+
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql3.svg">
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg">
