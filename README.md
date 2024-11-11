@@ -11,36 +11,36 @@
     </div>
     <div style="font-size: 16px; color: #000;">
       <div style="margin-left: 16px;">
-        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">name</span> = <span style="color: #e67e22;">"Adrian Dan"</span>;
+        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">name</span> = <span style="color: #e67e22;">"Adrian Dan"</span>; :neckbeard:
       </div>
       <div>
-        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">phoneNumber</span> = <span style="color: #e67e22;">"+43-660-183-2293"</span>;
+        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">phoneNumber</span> = <span style="color: #e67e22;">"+43-660-183-2293"</span>; :iphone:
       </div>
       <div>
-        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">language</span> = <span style="color: #e67e22;">"English, German & Romanian"</span>;
+        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">language</span> = <span style="color: #e67e22;">"English, German & Romanian"</span>; :speech_balloon:
       </div>
       <div>
         <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">gitHubAccount</span> = 
-        <a href="https://github.com/Armadox" style="text-decoration: underline; color: #0066cc; hover: color:#0055bb;">https://github.com/Armadox</a>;
+        <a href="https://github.com/Armadox" style="text-decoration: underline; color: #0066cc; hover: color:#0055bb;">https://github.com/Armadox</a>; :computer:
       </div>
       <br/>
       <div>
-        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">bestSkills</span> = <span style="color: #e67e22;">"HTML, CSS, Javascript (React & NextJS)"</span>;
+        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">bestSkills</span> = <span style="color: #e67e22;">"HTML, CSS, Javascript (React & NextJS)"</span>; :running: :car: :dash:
       </div>
       <div>
-        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">basicSkills</span> = <span style="color: #e67e22;">"Prisma, Git, GraphQL, C, C#, jQuery, Python, Microsoft Office"</span>;
+        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">basicSkills</span> = <span style="color: #e67e22;">"Prisma, Git, GraphQL, C, C#, jQuery, Python, Microsoft Office"</span>; :cop:
       </div>
       <div>
-        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">databases</span> = <span style="color: #e67e22;">"MySQL, LinQ, MongoDB"</span>;
+        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">databases</span> = <span style="color: #e67e22;">"MySQL, LinQ, MongoDB"</span>; :japanese_goblin:
       </div>
       <div>
-        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">otherSkills</span> = <span style="color: #e67e22;">"Implementing online components, OOP, SEO, API’s, Blender 3D"</span>;
+        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">otherSkills</span> = <span style="color: #e67e22;">"Implementing online components, OOP, SEO, API’s, Blender 3D"</span>; :shipit:
       </div>
       <br/>
-      <div style="color: #2ecc71;">// Hello, ladies and gentlemen!</div>
-      <div style="color: #2ecc71;">// My name is Adrian Dan and I am a self-taught web developer.</div>
+      <div style="color: #2ecc71;">// Hello, ladies and gentlemen!</div> :gift_heart:
+      <div style="color: #2ecc71;">// My name is Adrian Dan and I am a self-taught web developer.</div> :alien:
       <br/>
-      <div style="color: #2ecc71;">// My goal is to help you create some kickass websites that we can be both proud of!</div>
+      <div style="color: #2ecc71;">// My goal is to help you create some kickass websites that we can be both proud of!</div> :sunglasses:
       <br/>
       <div>
         <span style="color: #00bfff;">console</span>.<span style="color: #f1c40f;">log</span>
