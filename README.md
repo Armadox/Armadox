@@ -44,7 +44,7 @@
       <br/>
       <div>
         <span style="color: #00bfff;">console</span>.<span style="color: #f1c40f;">log</span>
-        <span style="color: #ff00ff;">(</span><span style="color: #e67e22;">"FEEL FREE TO REACH OUT!"</span><span style="color: #ff00ff;">)</span>;
+        <span style="color: #ff00ff;">(</span><span style="color: #e67e22;">"FEEL FREE TO REACH OUT! @ adydan1802@gmail.com"</span><span style="color: #ff00ff;">)</span>;
       </div>
       <br/>
       <div style="color: #ff00ff;">return(<span style="color: #0070f3;">null</span>)</div>
