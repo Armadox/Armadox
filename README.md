@@ -28,13 +28,16 @@
         <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">bestSkills</span> = <span style="color: #e67e22;">"HTML, CSS, Javascript (React & NextJS)"</span>; :running: :car: :dash:
       </div>
       <div>
-        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">basicSkills</span> = <span style="color: #e67e22;">"Prisma, Git, GraphQL, C, C#, jQuery, Python, Microsoft Office"</span>; :cop:
+        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">basicSkills</span> = <span style="color: #e67e22;">"Prisma, Git, GraphQL, C, C#, .NET, ASP.NET"</span>; :cop:
       </div>
       <div>
-        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">databases</span> = <span style="color: #e67e22;">"MySQL, LinQ, MongoDB"</span>; :japanese_goblin:
+        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">databases</span> = <span style="color: #e67e22;">"MySQL, PostgreSQL, MongoDB"</span>; :japanese_goblin:
       </div>
       <div>
-        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">otherSkills</span> = <span style="color: #e67e22;">"Implementing online components, OOP, SEO, API’s, Blender 3D"</span>; :shipit:
+        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">otherSkills</span> = <span style="color: #e67e22;">"Implementing online components, OOP, SEO, REST API’s, Testing, Websockets, Blender 3D"</span>; :shipit:
+      </div>
+      <div>
+        <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">testingTools</span> = <span style="color: #e67e22;">"POSTMAN, Jest, Cypress, xUnit, MoQ"</span>; :shipit:
       </div>
       <br/>
       <div style="color: #2ecc71;">// Hello, ladies and gentlemen!</div> :gift_heart:
