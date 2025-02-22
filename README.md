@@ -21,7 +21,7 @@
       </div>
       <div>
         <span style="color: #0070f3;">const</span> <span style="color: #00bfff;">gitHubAccount</span> = 
-        <a href="https://github.com/Armadox" style="text-decoration: underline; color: #0066cc; hover: color:#0055bb;">https://github.com/Armadox</a>; :computer:
+        <a href="https://github.com/Armadox" style="text-decoration: underline; color: #0066cc; hover: color:#0055bb;">"https://github.com/Armadox"</a>; :computer:
       </div>
       <br/>
       <div>
@@ -41,9 +41,7 @@
       </div>
       <br/>
       <div style="color: #2ecc71;">// Hello, ladies and gentlemen!</div> :gift_heart:
-      <div style="color: #2ecc71;">// My name is Adrian Dan and I am a self-taught web developer.</div> :alien:
-      <br/>
-      <div style="color: #2ecc71;">// My goal is to help you create some kickass websites that we can be both proud of!</div> :sunglasses:
+      <div style="color: #2ecc71;">// My name is Adrian Dan and I am a self-taught software developer</div> :alien:
       <br/>
       <div>
         <span style="color: #00bfff;">console</span>.<span style="color: #f1c40f;">log</span>
